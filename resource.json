@@ -1,0 +1,504 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://www.zd-fabric.com/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/logo.png",
+                    "path": "images/logo.png"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/banner-6.jpg",
+                    "path": "images/banner-6.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/down.png",
+                    "path": "images/down.png"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/w1.png",
+                    "path": "images/w1.png"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/w2.png",
+                    "path": "images/w2.png"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/w3.png",
+                    "path": "images/w3.png"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/w4.png",
+                    "path": "images/w4.png"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/1-12.jpg",
+                    "path": "images/1-12.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/38.jpg",
+                    "path": "images/38.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/14-1.jpg",
+                    "path": "images/14-1.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/56-1.jpg",
+                    "path": "images/56-1.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/60.jpg",
+                    "path": "images/60.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/77.jpg",
+                    "path": "images/77.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/27.jpg",
+                    "path": "images/27.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/10-1.jpg",
+                    "path": "images/10-1.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/5-3.jpg",
+                    "path": "images/5-3.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/25-1.jpg",
+                    "path": "images/25-1.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/23-1.jpg",
+                    "path": "images/23-1.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/03/17-1.jpg",
+                    "path": "images/17-1.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/wwipper_06.jpg",
+                    "path": "images/wwipper_06.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/wwipper_07.jpg",
+                    "path": "images/wwipper_07.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/wwipper_08.jpg",
+                    "path": "images/wwipper_08.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/wwipper_09.jpg",
+                    "path": "images/wwipper_09.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2016/08/2.jpg",
+                    "path": "images/2.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/09/2.jpg",
+                    "path": "images/2_1.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/12/2-5.jpg",
+                    "path": "images/2-5.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/10/124.jpg",
+                    "path": "images/124.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/uploads/2020/10/129.jpg",
+                    "path": "images/129.jpeg"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/qr.png",
+                    "path": "images/qr.png"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+                    "path": "js/jquery.js"
+                },
+                {
+                    "url": "https://player.polyv.net/script/polyvplayer.min.js",
+                    "path": "js/polyvplayer.min.js"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=2.6.2",
+                    "path": "js/lazysizes.min.js"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/cache/autoptimize/1/js/autoptimize_69027987fe5c53e3e6c4fa3e60ca0aa8.js",
+                    "path": "js/autoptimize_69027987fe5c53e3e6c4fa3e60ca0aa8.js"
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/cache/autoptimize/1/css/autoptimize_11739d4c7d46838454909f8cbefd655a.css",
+                    "path": "css/autoptimize_11739d4c7d46838454909f8cbefd655a.css",
+                    "children": [
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+                            "path": "images/ajax-loader.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-ulike/assets/img/svg/loader.svg",
+                            "path": "images/loader.svg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-ulike/assets/img/svg/like.svg",
+                            "path": "images/like.svg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-ulike/assets/img/svg/love.svg",
+                            "path": "images/love.svg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-ulike/assets/img/icons/heart.png",
+                            "path": "images/heart.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-ulike/assets/img/svg/info.svg",
+                            "path": "images/info.svg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-ulike/assets/img/svg/success.svg",
+                            "path": "images/success.svg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-ulike/assets/img/svg/error.svg",
+                            "path": "images/error.svg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-ulike/assets/img/svg/warning.svg",
+                            "path": "images/warning.svg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-jquery-lightbox/styles/images/loading.gif",
+                            "path": "images/loading.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-jquery-lightbox/styles/images/closelabel.gif",
+                            "path": "images/closelabel.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-jquery-lightbox/styles/images/blank.gif",
+                            "path": "images/blank.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-jquery-lightbox/styles/images/prev.gif",
+                            "path": "images/prev.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/wp-jquery-lightbox/styles/images/next.gif",
+                            "path": "images/next.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/mobile/mb-globe.png",
+                            "path": "images/mb-globe.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/mobile/q-11.png",
+                            "path": "images/q-11.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/basic/layer-form-bg.jpg",
+                            "path": "images/layer-form-bg.jpg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/fontawesome-webfont.eot?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.eot"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+                            "path": "fonts/fontawesome-webfont_1.eot"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/fontawesome-webfont.woff2?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff2"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/fontawesome-webfont.woff?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/fontawesome-webfont.ttf?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.ttf"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular",
+                            "path": "images/fontawesome-webfont.svg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/roboto-regular.ttf",
+                            "path": "fonts/roboto-regular.ttf"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/roboto-regular.eot",
+                            "path": "fonts/roboto-regular.eot"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/roboto-regular.woff",
+                            "path": "fonts/roboto-regular.woff"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/roboto-regular.woff2",
+                            "path": "fonts/roboto-regular.woff2"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/roboto-light.ttf",
+                            "path": "fonts/roboto-light.ttf"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/roboto-light.eot",
+                            "path": "fonts/roboto-light.eot"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/roboto-light.woff",
+                            "path": "fonts/roboto-light.woff"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/fonts/roboto-light.woff2",
+                            "path": "fonts/roboto-light.woff2"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/tc-zoom.png",
+                            "path": "images/tc-zoom.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/close.png",
+                            "path": "images/close.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/banner2.jpg",
+                            "path": "images/banner2.jpg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/plus.png",
+                            "path": "images/plus.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/banner3.jpg",
+                            "path": "images/banner3.jpg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/left.png",
+                            "path": "images/left.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/right.png",
+                            "path": "images/right.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/banner4.jpg",
+                            "path": "images/banner4.jpg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/banner5.jpg",
+                            "path": "images/banner5.jpg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/time.png",
+                            "path": "images/time.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/tel.png",
+                            "path": "images/tel.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/fax.png",
+                            "path": "images/fax.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/mail.png",
+                            "path": "images/mail.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/add.png",
+                            "path": "images/add.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/bcg17.jpg",
+                            "path": "images/bcg17.jpg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/fw.png",
+                            "path": "images/fw.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/fonts/flexslider-icon.eot",
+                            "path": "fonts/flexslider-icon.eot"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/fonts/flexslider-icon.woff",
+                            "path": "fonts/flexslider-icon.woff"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/fonts/flexslider-icon.ttf",
+                            "path": "fonts/flexslider-icon.ttf"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/fonts/flexslider-icon.svg#flexslider-icon",
+                            "path": "images/flexslider-icon.svg"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/bg_direction_nav.png",
+                            "path": "images/bg_direction_nav.png"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/cache/autoptimize/1/css/autoptimize_9870f4d593070ed7a3f62c3918eed4ab.css",
+                    "path": "css/autoptimize_9870f4d593070ed7a3f62c3918eed4ab.css",
+                    "children": [
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/default/sprite.png",
+                            "path": "images/sprite.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/default/sprite_x.png",
+                            "path": "images/sprite_x.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/default/sprite_y.png",
+                            "path": "images/sprite_y.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/default/sprite_next.png",
+                            "path": "images/sprite_next.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/default/sprite_prev.png",
+                            "path": "images/sprite_prev.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/default/default_thumb.png",
+                            "path": "images/default_thumb.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/default/loader.gif",
+                            "path": "images/loader.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/light_rounded/sprite.png",
+                            "path": "images/sprite_3.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/light_rounded/btnNext.png",
+                            "path": "images/btnNext.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/light_rounded/btnPrevious.png",
+                            "path": "images/btnPrevious_1.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/dark_rounded/sprite.png",
+                            "path": "images/sprite_1.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/dark_rounded/contentPattern.png",
+                            "path": "images/contentPattern.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/dark_rounded/btnNext.png",
+                            "path": "images/btnNext_1.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/dark_rounded/btnPrevious.png",
+                            "path": "images/btnPrevious.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/dark_rounded/loader.gif",
+                            "path": "images/loader_1.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/dark_square/loader.gif",
+                            "path": "images/loader_2.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/dark_square/sprite.png",
+                            "path": "images/sprite_2.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/dark_square/btnNext.png",
+                            "path": "images/btnNext_2.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/dark_square/btnPrevious.png",
+                            "path": "images/btnPrevious_2.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/light_square/sprite.png",
+                            "path": "images/sprite_4.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/light_square/btnNext.png",
+                            "path": "images/btnNext_3.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/light_square/btnPrevious.png",
+                            "path": "images/btnPrevious_3.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/facebook/sprite.png",
+                            "path": "images/sprite_5.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/facebook/contentPatternTop.png",
+                            "path": "images/contentPatternTop.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/facebook/contentPatternLeft.png",
+                            "path": "images/contentPatternLeft.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/facebook/contentPatternRight.png",
+                            "path": "images/contentPatternRight.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/facebook/loader.gif",
+                            "path": "images/loader_3.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/facebook/btnNext.png",
+                            "path": "images/btnNext_4.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/facebook/btnPrevious.png",
+                            "path": "images/btnPrevious_4.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/facebook/contentPatternBottom.png",
+                            "path": "images/contentPatternBottom.png"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/facebook/default_thumbnail.gif",
+                            "path": "images/default_thumbnail.gif"
+                        },
+                        {
+                            "url": "https://www.zd-fabric.com/wp-content/plugins/easy-image-gallery/includes/lib/images/prettyPhoto/light_rounded/loader.gif",
+                            "path": "images/loader_4.gif"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.zd-fabric.com/wp-content/themes/zhengdafangzhi/images/icon.ico",
+                    "path": "etc/icon.ico"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
